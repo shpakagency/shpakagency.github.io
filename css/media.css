@@ -1,0 +1,15 @@
+@media only screen and (max-width: 860px) {
+  .logo h1 {
+    font-size: 1.7rem; }
+  .top-menu ul li {
+    margin: 0 10px; } }
+
+@media only screen and (max-width: 768px) {
+  .top-menu {
+    display: none; }
+  address h3 {
+    display: none; }
+  .btn-menu {
+    display: block; }
+  .header-sc {
+    text-align: center; } }
